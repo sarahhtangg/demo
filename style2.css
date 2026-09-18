@@ -1,0 +1,188 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  height: 1124px;
+  position: relative;
+}
+.frame-9 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1540px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-8 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-7 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-6 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-5 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.layout {
+  background: #e0b3fe;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  padding: 116px 314px 873px 205px;
+  display: flex;
+  flex-direction: row;
+  gap: 17px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.main-menu {
+  display: flex;
+  flex-direction: row;
+  gap: 68px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  position: absolute;
+  left: 933px;
+  top: 171px;
+}
+.frame-2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "InstrumentSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-3 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "InstrumentSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-4 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "InstrumentSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.hero-section {
+  width: 1144px;
+  height: 450px;
+  position: static;
+}
+.budt-748-capstone {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 176px;
+  top: 291px;
+}
+.budt-748-is-the-capstone-course-for-master-s-in-information-systems-ai-majors-where-students-apply-their-knowledge-to-develop-real-world-solutions-for-business-clients-semester-details-fall-2026-professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0undefined;
+  font-weight: 400;
+  position: absolute;
+  right: 220px;
+  left: 176px;
+  top: 402px;
+  height: 339px;
+}
+.budt-748-is-the-capstone-course-for-master-s-in-information-systems-ai-majors-where-students-apply-their-knowledge-to-develop-real-world-solutions-for-business-clients-semester-details-fall-2026-professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-span {
+}
+.budt-748-is-the-capstone-course-for-master-s-in-information-systems-ai-majors-where-students-apply-their-knowledge-to-develop-real-world-solutions-for-business-clients-semester-details-fall-2026-professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-span2 {
+  letter-spacing: 0.01em;
+}
+.budt-748 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "InstrumentSans-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 181px;
+  top: 168px;
+}
